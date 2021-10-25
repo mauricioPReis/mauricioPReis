@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Mauricio P. Reis 👋
+
+  ##
+ ![Mauricio's github stats](https://github-readme-stats.vercel.app/api?username=mauricioPReis&show_icons=true&theme=dark)
 
 <!--
 **mauricioPReis/mauricioPReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
