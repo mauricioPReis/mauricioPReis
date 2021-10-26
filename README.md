@@ -5,7 +5,7 @@
 ##Here are some ideas to get you started:
 
 - 🔭 I am currently working as a technical support analyst at LogNet Telecom [@Lognet](https://www.loginternet.com.br/novo/)
-- 🌱 I'm currently learning PHP, HTML, CSS, SQL and JavaScript
+- 🌱 I'm currently learning front end and back end development
 - 👯 I'm looking to collaborate on open source and SQL applications
 - 🤔 I'm looking for help with the new dev's community.
 - 💬 Ask me about SQL and front-end development ...
