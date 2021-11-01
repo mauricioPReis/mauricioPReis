@@ -8,7 +8,7 @@
 
 ##
 
-![About Me](https://fontmeme.com/permalink/211101/365791dd57e85d24e50a251080083f79.png)![Dynasmon](https://bityli.com/mqexmM)
+![About Me](https://fontmeme.com/permalink/211101/3d013e08b7cc331decfae6b2c043ef61.png)![Dynasmon](https://bityli.com/dynasmon)
 
 - 🔭 I am currently working as a technical support analyst at LogNet Telecom [@Lognet](https://www.loginternet.com.br/novo/)
 - 🌱 I'm currently learning front end and back end development
