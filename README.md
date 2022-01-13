@@ -8,7 +8,7 @@
 
 ##
 
-![About Me](https://fontmeme.com/permalink/211101/3d013e08b7cc331decfae6b2c043ef61.png)![Dynasmon](https://bityli.com/dynasmon)
+![About Me](https://fontmeme.com/permalink/211101/3d013e08b7cc331decfae6b2c043ef61.png)![Dynasmon](https://bit.ly/abadonmon)
 
 - 🔭 I am currently working as a technical support analyst at LogNet Telecom [@Lognet](https://www.loginternet.com.br/novo/)
 - 🌱 I'm currently learning front end and back end development
@@ -17,6 +17,7 @@
 - 💬 Ask me about SQL and front-end development ...
 - 😄 Pronouns: him /his
 - ⚡ Fun fact: my friends call me Smallville in reference to the 2001 series
+![Lucemon-Chaos-Mode](https://bit.ly/Lucemon-Chaos-Mode)
 
 ##
 <div align="center">
