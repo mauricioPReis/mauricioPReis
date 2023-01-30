@@ -17,6 +17,7 @@
 - 💬 Ask me about SQL and front-end development ...
 - 😄 Pronouns: him /his
 - ⚡ Fun fact: my friends call me Smallville in reference to the 2001 series
+
 ![Lucemon-Chaos-Mode](https://bit.ly/Lucemon-Chaos-Mode)
 
 ##
